@@ -38,3 +38,8 @@ Dusty Blue
 #759BB5
 Dark Burgundy
 #642E35
+
+komande
+git add .
+git commit -m "Opis šta si promenio/la"
+git push
