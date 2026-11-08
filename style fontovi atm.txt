@@ -1,0 +1,40 @@
+<style>
+        @font-face {
+            font-family: "911";
+            src: url("fonts/911.ttf");
+        }
+        @font-face {
+            font-family: "Delirium";
+            src: url("fonts/Delirium.ttf");
+        }
+        @font-face {
+            font-family: "Nasa";
+            src: url("fonts/Nasa.otf");
+        }
+        @font-face {
+            font-family: "Star";
+            src: url("fonts/StarShield.ttf");
+        }
+        @font-face {
+            font-family: "GSFM";
+            src: url("fonts/GSFM.ttf");
+        }
+        @font-face {
+            font-family: "Higher";
+            src: url("fonts/Higher.otf");
+        }
+    </style>
+
+    Retro svemirska paleta za tvoj sajt
+Space Navy
+#101C35
+Vintage Cream
+#F2E6C9
+Rocket Orange
+#D96B36
+Apollo Gold
+#E9B94E
+Dusty Blue
+#759BB5
+Dark Burgundy
+#642E35
