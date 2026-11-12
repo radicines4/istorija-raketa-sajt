@@ -41,5 +41,5 @@ Dark Burgundy
 
 komande
 git add .
-git commit -m "Opis šta si promenio/la"
+git commit -m "opis"
 git push
